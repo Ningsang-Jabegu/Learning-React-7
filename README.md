@@ -4,7 +4,7 @@
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-7/blob/main/dark-mode-journal-screenshot.png" alt="Project Screenshots" height="400">
 <br>
 <p>Travel Journal light Mode</p>
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-7/blob/main/dark-mode-journal-screenshot.png" alt="Project Screenshots" height="400">
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-7/blob/main/light-mode-journal-screenshot.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
