@@ -1,10 +1,10 @@
 # React Project 7 Documentation (My Travel Journal)
 
 <p>Travel Journal Dark Mode</p>
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/dark-mode-screenshot.png" alt="Project Screenshots" height="400">
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-7/blob/main/dark-mode-journal-screenshot.png" alt="Project Screenshots" height="400">
 <br>
 <p>Travel Journal light Mode</p>
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/light-mode-screenshot.png" alt="Project Screenshots" height="400">
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-7/blob/main/dark-mode-journal-screenshot.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
