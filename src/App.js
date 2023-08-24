@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import React, { Component } from "react"
+import Header from "./Components/Header"
+import Container from "./Components/Container"
+import data from "./Components/Data"
+export default function App() {
+  const renderContainer = data.map(d => <Container key={d.id} travel={d}/>)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <main className="main-content">
+      <p className="react-badge">Learning-React-7 </p>
+      <Header />
+      {renderContainer}
+    </main>
+  )
 }
 
-export default App;
