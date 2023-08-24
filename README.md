@@ -1,26 +1,23 @@
-# React Project 6 Documentation (Tenzies Game)
+# React Project 7 Documentation (My Travel Journal)
 
-<p>Tenzies Game Dark Mode</p>
+<p>Travel Journal Dark Mode</p>
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/dark-mode-screenshot.png" alt="Project Screenshots" height="400">
 <br>
-<p>Tenzies Game light Mode</p>
+<p>Travel Journal light Mode</p>
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/light-mode-screenshot.png" alt="Project Screenshots" height="400">
-<br>
-<p>Tenzies Game Winning Screen</p>
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-6/blob/main/winning-screenshot.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
 
-This documentation provides an insight into **React Project 6**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 6 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
+This documentation provides an insight into **React Project 7**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 6 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
 
 ## Project Description
 
-**React Project 6** serves as a practical exploration of React's core principles and features. The project showcases the creation of a web application using React, allowing to grasp essential concepts in a hands-on manner.
+**React Project 7** serves as a practical exploration of React's core principles and features. The project showcases the creation of a web application using React, allowing to grasp essential concepts in a hands-on manner.
 
 ## Deployment
 
-The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit (<a href="https://react-project-6-by-ningsang-jabegu.netlify.app" target="_blank">https://react-project-6-by-ningsang-jabegu.netlify.app</a>). This live version offers an opportunity to interact with the application.
+The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit (<a href="https://react-project-7-by-ningsang-jabegu.netlify.app" target="_blank">https://react-project-7-by-ningsang-jabegu.netlify.app</a>). This live version offers an opportunity to interact with the application.
 
 ## Project Creation
 
@@ -29,7 +26,7 @@ The project was initiated using the following steps:
 1. **Create React App**: The project setup was accomplished using the Create React App tool. This streamlined the creation of a React application with the necessary configurations.
 
    ```terminal
-   npx create-react-app react-project-5
+   npx create-react-app react-project-7
 2. **Folder Structure Adjusted**: The project adheres to a specific folder structure for organization and maintainability. (build folder is what actually renders in the browser)
    ```terminal
    ├── build
